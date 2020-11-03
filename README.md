@@ -11,4 +11,4 @@ Automation of Security using Machine Learning Algorithms
 
 <h2>After Mitigating DDOS Attack</h2>
 
-<img src = "/screenshots/After Monitoring.png">
+<img src = "/screenshots/After mitigating.png">
